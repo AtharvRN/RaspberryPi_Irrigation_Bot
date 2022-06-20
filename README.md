@@ -1,6 +1,5 @@
 # Plant Watering Bot
-
-File in development stage</br>
+**Developing this Read Me File Currently**</br>
 This project was done under the **Robotix**, **IITH** <br/>
 ## Function 
 The bot can detect potted plants in its surroundings and move towards it. Once the plant is within a certain distance ,the bot waters it<br/>
