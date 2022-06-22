@@ -18,7 +18,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 - Install OpenCV and numpy on RPi (Make sure to install OpenCV from source)
 - Google's Sample Tflite model  - coco_ssd_mobilenet_v1_1.0_quant_2018_06_29 has been used for object detection</br>
 
-# Setting the Bot
+# Setting up the Hardware
 
 
 
