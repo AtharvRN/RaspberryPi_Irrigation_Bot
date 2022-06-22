@@ -29,5 +29,7 @@ I have used a Lipo Battery to power the Motor Drivers and a Power Bank for the p
  This link might be useful : https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ </br>
 # Water Your Plants
 Load the .py file along with the model folder in the **same directory**. Make sure to install OpenCV from source. <br/>
-You can now run the file.
-
+You can now run the file. Videos of Test Runs are there in the videos file
+# Future improvements
+- Training a custom model for this particular use case would greatly improve the accuracy and speed
+- Implementing some form of PID Control can help in better navigation
