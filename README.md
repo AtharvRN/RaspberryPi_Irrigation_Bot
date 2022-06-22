@@ -21,6 +21,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 # Setting up the Hardware
 /home/atharv/Pictures/Images/PROJECT.png
 
+![PROJECT](https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png)
 
 
 This code was used to build an autonomous plant watering bot <br />
