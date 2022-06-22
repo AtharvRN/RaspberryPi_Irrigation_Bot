@@ -2,7 +2,7 @@
 **Developing this Read Me File Currently**</br>
 This project was done under the **Robotix**, **IITH** <br/>
 ## Function 
-The bot can detect potted plants in its surroundings and move towards it. Once the plant is within a certain distance ,the bot waters it<br/>
+The bot can detect potted plants in its surroundings and move towards it. Once the plant is within a certain range of the plant ,the bot waters it<br/>
 ## Hardware Used
 - Raspberry Pi 4B (Along with fan and heat sink< It is recommended to overclock the Pi) 
 - DC Motors X2
@@ -27,7 +27,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 Make Sure to connect the Raspberry Pi to the USB Camera/Pi Camera (The Code will work for both. Although the code could be more optimised for the pi camera )
 I have used a Lipo Battery to power the Motor Drivers and a Power Bank for the pi. You could use the same battery for both of them but make sure to convert voltages to appropriate values using a buck-booster converter<br/>
  This link might be useful : https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ </br>
-# And the
-This code was used to build an autonomous plant watering bot <br />
-A webcam was used to take the live feed which was sent to a raspberry pi <br />
-The program helps in detecting potted plants and makes the bot go near the plant and water it 
+# Water Your Plants
+Load the .py file along with the model folder in the **same directory**. Make sure to install OpenCV from source. <br/>
+You can now run the file.
+
