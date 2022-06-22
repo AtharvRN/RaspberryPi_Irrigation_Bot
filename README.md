@@ -19,7 +19,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 - Google's Sample Tflite model  - coco_ssd_mobilenet_v1_1.0_quant_2018_06_29 has been used for object detection</br>
 
 # Setting up the Hardware
-
+/home/atharv/Pictures/Images/PROJECT.png
 
 
 
