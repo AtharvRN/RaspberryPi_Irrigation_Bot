@@ -24,6 +24,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 # Set Up the Hardware
  Setting up the hardware is rather straight forward. The Motor Drivers are connected to the Raspberry Pi, making use of 9 pins in the pi<br/>
  One Motor Driver is connected to 2 of the DC Motors (used for controlling the wheels). Another one is connected to the pump Motor (used to water the plant)<br/>
+ This link might be useful : https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ </br>
  
 This code was used to build an autonomous plant watering bot <br />
 A webcam was used to take the live feed which was sent to a raspberry pi <br />
