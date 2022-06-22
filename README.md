@@ -18,12 +18,11 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 - Install OpenCV and numpy on RPi (Make sure to install OpenCV from source)
 - Google's Sample Tflite model  - coco_ssd_mobilenet_v1_1.0_quant_2018_06_29 has been used for object detection</br>
 
-# Setting up the Hardware
-/home/atharv/Pictures/Images/PROJECT.png
+# FLOWCHART
+![PROJECT](https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png =450X300)
 
-![PROJECT](https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png)
-
-
+# Set Up the Hardware
+ Setting up the hardware is rather straight forward. Connections are rather straightforwardThe Motor Drivers are connected to the Raspberry Pi.
 This code was used to build an autonomous plant watering bot <br />
 A webcam was used to take the live feed which was sent to a raspberry pi <br />
 The program helps in detecting potted plants and makes the bot go near the plant and water it 
