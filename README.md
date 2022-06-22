@@ -22,7 +22,9 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 <img src="https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png" width ="800" height ="540">
 
 # Set Up the Hardware
- Setting up the hardware is rather straight forward. Connections are rather straightforwardThe Motor Drivers are connected to the Raspberry Pi.
+ Setting up the hardware is rather straight forward. The Motor Drivers are connected to the Raspberry Pi, making use of 9 pins in the pi<br/>
+ One Motor Driver is connected to 2 of the DC Motors (used for controlling the wheels). Another one is connected to the pump Motor (used to water the plant)<br/>
+ 
 This code was used to build an autonomous plant watering bot <br />
 A webcam was used to take the live feed which was sent to a raspberry pi <br />
 The program helps in detecting potted plants and makes the bot go near the plant and water it 
