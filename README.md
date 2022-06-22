@@ -34,6 +34,6 @@ You can now run the file. Videos of Test Runs are there in the videos file
 - Training a custom model for this particular use case would greatly improve the accuracy and speed
 - Implementing some form of PID Control can help in better navigation
 # Useful Links
-https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/
-https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ 
+https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/ <br/>
+https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/ <br/>
 https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
