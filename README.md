@@ -19,7 +19,7 @@ The bot can detect potted plants in its surroundings and move towards it. Once t
 - Google's Sample Tflite model  - coco_ssd_mobilenet_v1_1.0_quant_2018_06_29 has been used for object detection</br>
 
 # FLOWCHART
-![PROJECT](https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png =450X300)
+<img src="https://user-images.githubusercontent.com/82694160/174993769-ad719422-f1e2-4de5-b3ff-1c3fb9696a3d.png">
 
 # Set Up the Hardware
  Setting up the hardware is rather straight forward. Connections are rather straightforwardThe Motor Drivers are connected to the Raspberry Pi.
